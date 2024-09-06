@@ -17,8 +17,8 @@ This project demonstrates the workflow of an application using animations to gui
 * Accessibility: The project follows accessibility best practices, with semantic HTML and proper ARIA roles.
 ### Challenges Faced and Solutions
 1. Animating Multiple Components:
-* Challenge: Handling the complex sequence of animations for multiple components such as arrows, circles, and phones.
-* Solution: Framer Motion was utilized to control the sequence of animations using asynchronous functions to ensure smooth transitions.
+- Challenge: Handling the complex sequence of animations for multiple components such as arrows, circles, and phones.
+- Solution: Framer Motion was utilized to control the sequence of animations using asynchronous functions to ensure smooth transitions.
 2. Responsive Design for Complex Animations:
 * Challenge: Ensuring animations and layouts work well on different screen sizes.
 * Solution: Media queries and React state management were used to adjust the animation parameters dynamically based on the screen size.
