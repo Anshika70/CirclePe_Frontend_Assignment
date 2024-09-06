@@ -18,9 +18,13 @@ This project demonstrates the workflow of an application using animations to gui
 **1. Animating Multiple Components:**
 * **Challenge**: Handling the complex sequence of animations for multiple components such as arrows, circles, and phones.
 * **Solution**: Framer Motion was utilized to control the sequence of animations using asynchronous functions to ensure smooth transitions.
+
+
 **2. Responsive Design for Complex Animations:**
 * **Challenge**: Ensuring animations and layouts work well on different screen sizes.
 * **Solution**: Media queries and React state management were used to adjust the animation parameters dynamically based on the screen size.
+
+
 **3. Cross-browser Compatibility:**
 * **Challenge**: Ensuring animations and CSS styles behave consistently across browsers.
 * **Solution**: CSS was thoroughly tested on multiple browsers and adjusted to avoid inconsistencies.
